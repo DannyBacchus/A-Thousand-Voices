@@ -1,0 +1,283 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hiddenPic {
+	position:relative;
+	position:absolute;
+	position:relative;
+	display:none;
+	display:block;
+	display:none;
+	visibility:hidden;
+}
+
+
+.bodyHome {
+	background:url(../images/timBlakelogo.png);
+	background-attachment:fixed;
+	background-position:left bottom;
+	background-repeat:no-repeat;
+}
+
+.bodyArt {
+	background:url(../images/timBlakelogoSmall.png);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	text-align:left;
+}
+
+.bodyPaintings {
+	background:url(../images/paintingsBG.png);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	text-align:left;
+}
+
+.bodyOngoing {
+	background:url(../images/ongoingBG.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	height: 743px;
+	text-align:left;
+}
+
+.bodyPress {
+	background:url(../images/pressBG.png);
+	background-color:#000;
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	min-height:100%;
+	text-align:left;
+}
+
+.bodyInstallation {
+	background:url(../images/installationBG.png);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	text-align:left;
+}
+
+.bodyPhotos {
+	background:url(../images/photosBG.png);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	text-align:left;
+}
+
+.bodyPortfolio {
+	background:url(../images/portfolioBG.png);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	text-align:left;
+}
+
+.homeContainer {
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	text-align:right;
+}
+
+.pageContainer {
+	padding: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding-right:5px;
+	width: 1000px;
+	text-align:left;
+}
+
+.centerContainer {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 100%;
+}
+
+.bottomContainer {
+	display: block;
+	position: absolute;
+    bottom: 0%;
+    right: 0%;
+	text-align:right;
+}
+
+.homeLogo {
+	float:left
+	display: block;
+	position: absolute;
+    bottom: 0px;
+	text-align:left;
+}
+
+.homeContent {
+	float:right
+	text-align:left;
+}
+
+#navcontainer {
+	text-align:right;
+	float:right;
+	width:auto;
+	background-color:#dcbebe;
+	height:74px;
+}
+
+#topNavlist li
+{
+display: inline;
+list-style-type: none;
+}
+
+ul
+{
+    list-style-type: none;
+	padding:0px;
+	margin:0px;
+}
+
+.paintingLeft {
+	text-align:right;
+	float:left;
+	width: 60%;
+}
+
+.paintingRight {
+	text-align:center;
+	float:right;
+	width:40%;
+}
+
+.installationLeft {
+	text-align:left;
+	float:left;
+	width: 60%;
+}
+
+.installationRight {
+	text-align:left;
+	float:right;
+	width:40%;
+}
+
+.pressLeft {
+	text-align:left;
+	float:left;
+	width: 65%;
+}
+
+.pressRight {
+	text-align:left;
+	float:right;
+	width:35%;
+}
+
+.exhibitionsLeft {
+	text-align:left;
+	float:left;
+	width: 46%;
+}
+
+.exhibitionsRight {
+	font-family:Verdana, Geneva, sans-serif;
+	color:#112880;
+	font-size:12px;
+	text-align:left;
+	float:right;
+	width:54%;
+}
+
+.artfilmLeft {
+	text-align:left;
+	float:left;
+	width:40%
+}
+
+.artfilmRight {
+	text-align:right;
+	float:right;
+	width:50%;
+}
+
+.left {
+	padding:0px;
+	margin:0px;
+	text-align:left;
+	float:left;
+	width: auto;
+}
+
+.filmLeft {
+	text-align:left;
+	float:left;
+	width: 35%;
+}
+
+.filmRight {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	text-align:left;
+	background: -moz-linear-gradient(top,  rgba(176,178,229,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(30,87,153,1)), color-stop(100%,rgba(125,185,232,0))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(176,178,229,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(176,178,229,1) 0%,rgba(125,185,232,0) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(176,178,229,1) 0%,rgba(125,185,232,0) 100%); /* IE10+ */
+	background: linear-gradient(top,  rgba(176,178,229,1) 0%,rgba(125,185,232,0) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b0b2e5', endColorstr='#007db9e8',GradientType=0 ); /* IE6-9 */
+	float:right;
+	width:65%;
+	height:inherit;
+}
+
+.artRight {
+	text-align:right;
+	float:right;
+	width: 100%;
+}
+
