@@ -40,8 +40,23 @@
 			<p><a href="images/exhibition/exhibition01.jpg" data-lightbox="exhibition" data-title="The 'A Thousand Voices' Exhibition 01"><img style="border-style:double;border-width:1px;border-color: #FFF;" src="images/exhibition/thumbs/exhibition01.jpg"/></a> <a href="images/exhibition/exhibition02.jpg" data-lightbox="exhibition" data-title="The 'A Thousand Voices' Exhibition 02"><img style="border-style:double;border-width:1px;border-color: #FFF;" src="images/exhibition/thumbs/exhibition02.jpg"/></a> <a href="images/exhibition/exhibition03.jpeg" data-lightbox="exhibition" data-title="The 'A Thousand Voices' Exhibition 03"><img style="border-style:double;border-width:1px;border-color: #FFF;" src="images/exhibition/thumbs/exhibition03.jpg"/></a> <a href="images/exhibition/exhibition04.jpg" data-lightbox="exhibition" data-title="The 'A Thousand Voices' Exhibition 04"><img style="border-style:double;border-width:1px;border-color: #FFF;" src="images/exhibition/thumbs/exhibition04.jpg"/></a> <a href="images/exhibition/exhibition05.jpg" data-lightbox="exhibition" data-title="The 'A Thousand Voices' Exhibition 05"><img style="border-style:double;border-width:1px;border-color: #FFF;" src="images/exhibition/thumbs/exhibition05.jpg"/></a> <a href="images/exhibition/exhibition06.jpg" data-lightbox="exhibition" data-title="The 'A Thousand Voices' Exhibition 06"><img style="border-style:double;border-width:1px;border-color: #FFF;" src="images/exhibition/thumbs/exhibition06.jpg"/></a></p>
 		</div>
 	</div>
+	<div class="info">
+		<div class="bio">
+			<p style="font-size: 32px">Ivanna Maszczak</p>
+			<p>Ivanna was born on the 11th of July 1925 in the Krupets village, Lubachiv county. She grew up in the Ukrainian family of Joseph Przepiorska, a Greek-Catholic priest, with her mother Irena Marenin, a school teacher, and her three elder brothers, Myroslav, Yuriy, and Vsevolod. She started her education in Horobriv and Sokal, and continued in the gymnasium of Bazylian Sisters in Lviv (1938-1939) and in Belz (until 1942).<br>
+			In 1945 Ivanna was arrested by Polish police and was held under investigation by Soviet border control security services.<br>
+			In 1947 Ivanna's family were forcibly resettled to the Olszyn county in Poland during Operation Wisla.<br>
+			On the 18th of January 1948 Ivanna was arrested by Polish security forces and transferred to Kyiv. On the 11th of April 1949, Ivanna was convicted under article 54.2 and 54.11 for counter-revolutionary activity to ten years hard corrective labour. She was transported over ten thousand kilometres from Kyiv to the coastal Gulag camp at Magadan, Kolyma where she remained until her release in 1955.<br>
+			In August 1955, Ivanna was transported by plane to Moscow where she was held under quarantine in the Potma-Yavas camp before finally being freed. She was reunited with her mother Irena in the Kentszyn town, Poland. Ivanna completed a librarian's course at the Polish Ministry of Culture and Arts in Gdynia in 1960.<br>
+			In 1965, Ivanna moved to London where she met her husband, Volodymyr Maszczak. Ivanna worked at the AUGB in London, the largest organisation that supports the Ukrainian community in the UK. She has become well known for her water colour artworks that have been presented at her exhibitions 'Spring Mosaic' in June 2010, and 'Colours of Art' in April 2015.
+			</p>
+		</div>
+		<div class="imgright">
+			<p><img style="border-style:double;border-width:1px;border-color: #FFF; height: 100%; width: 100%; object-fit: contain" src="images/youngIvanna.png"/></p>
+		</div>
+	</div>
 	<div class="footer">
-		Presented by the LiBA Collective. For all enquiries, please contact: <a href="mailto:d.bacchus@shu.ac.uk">d.bacchus@shu.ac.uk</a>
+		<p>Presented by the <a href="libacollective.html">LiBA Collective</a>. For all enquiries, please contact: <a href="mailto:d.bacchus@shu.ac.uk">d.bacchus@shu.ac.uk</a></p>
 	</div>
 </body>
 </html>

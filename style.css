@@ -13,7 +13,7 @@ body {
 	padding: 0;
 	margin: 0;
 	background-image: url("images/background.png");
-	background-repeat: no-repeat;
+	background-repeat:repeat-y;
 	background-position: center;
 	background-attachment: fixed;
 }
@@ -84,6 +84,7 @@ body {
 }
 
 .imageslider{
+	clear: both;
 	padding: 0;
 	margin: 0;
 	background: #000;
@@ -102,17 +103,63 @@ body {
 	font-family:"TitleFont", sans-serif;
 }
 
+.bio {
+	color: #FFF;
+	font-size: 24px;
+	font-family:"TitleFont", sans-serif;
+	text-align: justify;
+	padding-top: 10px;
+	margin: 0;
+	padding-left: 10%;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	width: 45%;
+	float: left;
+}
+
+.bioright {
+	color: #FFF;
+	font-size: 24px;
+	font-family:"TitleFont", sans-serif;
+	text-align: justify;
+	padding-top: 10px;
+	margin: 0;
+	padding-right: 10%;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	width: 45%;
+	float: left;
+}
+
+.imgright {
+	padding-right: 10%;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 25%;
+	float: left;
+}
+.imgleft {
+	padding-left: 10%;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 25%;
+	float: left;
+}
+
 .footer {
-	padding: 0px;
+	margin: 0;
+	padding-left: 10%;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	clear: both;
 	background: #000000;
 	color: #FFFFFF;
-	font-size: 20px;
+	font-size: 24px;
 	font-family:"TitleFont", sans-serif;
 	width: 100%;
 	text-align: left;
-	padding-top: 14px;
-	padding-bottom: 14px;
-	top:0;
 }
 
 #imagethumb {
@@ -122,13 +169,13 @@ body {
 a:link {
   color: #FFF;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:visited {
   color: #FFF;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
